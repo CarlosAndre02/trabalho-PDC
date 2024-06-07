@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JetClientState">
+    <option name="draftsState">
+      <draftsState>
+        <option name="auth">
+          <authState>
+            <option name="bearer">
+              <iX>
+                <option name="token" value="11|GGEyG3RNPsWBwyhRofeAHOqPx4zrMrhXGyYUyYA5" />
+              </iX>
+            </option>
+            <option name="type" value="BEARER" />
+          </authState>
+        </option>
+        <option name="headers">
+          <list>
+            <headerState>
+              <option name="key" value="Accept" />
+              <option name="value" value="application/json" />
+            </headerState>
+          </list>
+        </option>
+        <option name="requests">
+          <list>
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="type" value="BEARER" />
+                </authState>
+              </option>
+              <option name="headers">
+                <list>
+                  <headerState>
+                    <option name="key" value="Accept" />
+                    <option name="value" value="application/json" />
+                  </headerState>
+                </list>
+              </option>
+              <option name="id" value="9664beb7-f01b-43c7-a98a-6e2b474b59bd" />
+              <option name="method" value="GET" />
+              <option name="name" value="token generator" />
+              <option name="url" value="http://127.0.0.1:8000/api/token" />
+            </requestState>
+            <requestState>
+              <option name="id" value="27d92e93-4a09-4293-bd7e-a9d172586716" />
+              <option name="method" value="GET" />
+              <option name="name" value="routes" />
+              <option name="url" value="http://127.0.0.1:8000/api/api-routes/" />
+            </requestState>
+            <requestState>
+              <option name="id" value="4a0b5977-c451-4818-8d82-fb7baa6fe1ae" />
+              <option name="method" value="GET" />
+              <option name="name" value="GET-user" />
+              <option name="url" value="http://127.0.0.1:8000/api/user" />
+            </requestState>
+            <requestState>
+              <option name="id" value="28d4b461-5366-4c91-88c2-b81c3a27714e" />
+              <option name="method" value="GET" />
+              <option name="name" value="GET-signos" />
+              <option name="url" value="http://127.0.0.1:8000/api/horoscopos/signos" />
+            </requestState>
+            <requestState>
+              <option name="id" value="0b83802c-0aeb-42b0-80c6-d0d522f3f859" />
+              <option name="method" value="GET" />
+              <option name="name" value="basico" />
+              <option name="url" value="http://127.0.0.1:8000/api/horoscopos/basico/1" />
+            </requestState>
+            <requestState>
+              <option name="id" value="7218b52e-d2f6-4776-b988-70435fe2907d" />
+              <option name="method" value="GET" />
+              <option name="name" value="premium" />
+              <option name="url" value="http://127.0.0.1:8000/api/horoscopos/premium/1" />
+            </requestState>
+            <requestState>
+              <option name="id" value="e8c03695-84fd-4172-8b5c-f0317bbc4645" />
+              <option name="method" value="POST" />
+              <option name="name" value="novaCarteira" />
+              <option name="queryParams">
+                <list>
+                  <queryParamState>
+                    <option name="key" value="tipo" />
+                    <option name="value" value="eth" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="saldo" />
+                    <option name="value" value="452" />
+                  </queryParamState>
+                </list>
+              </option>
+              <option name="url" value="http://127.0.0.1:8000/api/criptomoeda/nova_carteira?tipo=eth&amp;saldo=452" />
+            </requestState>
+            <requestState>
+              <option name="auth">
+                <authState>
+                  <option name="bearer">
+                    <iX>
+                      <option name="token" value="16|U1cjXDa18QdrRd8fwC75X3ieETobjOaW6oaM5CUV" />
+                    </iX>
+                  </option>
+                  <option name="type" value="BEARER" />
+                </authState>
+              </option>
+              <option name="id" value="ffe89048-b9d3-44d3-bbd7-1da49a396f63" />
+              <option name="method" value="POST" />
+              <option name="name" value="novaCarteira Vini" />
+              <option name="queryParams">
+                <list>
+                  <queryParamState>
+                    <option name="key" value="tipo" />
+                    <option name="value" value="eth" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="saldo" />
+                    <option name="value" value="564" />
+                  </queryParamState>
+                </list>
+              </option>
+              <option name="url" value="http://127.0.0.1:8000/api/criptomoeda/nova_carteira?tipo=eth&amp;saldo=564" />
+            </requestState>
+            <requestState>
+              <option name="id" value="16f1d87c-3827-43df-9dc7-b56499a11fb0" />
+              <option name="method" value="GET" />
+              <option name="name" value="minhas_carteiras" />
+              <option name="url" value="http://127.0.0.1:8000/api/criptomoeda/carteiras" />
+            </requestState>
+            <requestState>
+              <option name="id" value="f749f9e2-8e04-45b2-b765-9bd1c7340171" />
+              <option name="method" value="POST" />
+              <option name="name" value="adicionar_saldo" />
+              <option name="queryParams">
+                <list>
+                  <queryParamState>
+                    <option name="key" value="id_carteira" />
+                    <option name="value" value="8" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="saldo" />
+                    <option name="value" value="373" />
+                  </queryParamState>
+                </list>
+              </option>
+              <option name="url" value="http://127.0.0.1:8000/api/criptomoeda/adicionar_saldo?id_carteira=8&amp;saldo=373" />
+            </requestState>
+            <requestState>
+              <option name="id" value="8b44e70d-464a-468a-9613-449d33578c79" />
+              <option name="method" value="POST" />
+              <option name="name" value="remover_saldo" />
+              <option name="queryParams">
+                <list>
+                  <queryParamState>
+                    <option name="key" value="id_carteira" />
+                    <option name="value" value="7" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="saldo" />
+                    <option name="value" value="101" />
+                  </queryParamState>
+                </list>
+              </option>
+              <option name="url" value="http://127.0.0.1:8000/api/criptomoeda/remover_saldo?id_carteira=7&amp;saldo=101" />
+            </requestState>
+            <requestState>
+              <option name="id" value="ffc9f471-7ee5-430c-95f2-e5b926249101" />
+              <option name="method" value="POST" />
+              <option name="name" value="transferir" />
+              <option name="queryParams">
+                <list>
+                  <queryParamState>
+                    <option name="key" value="id_carteira_destino" />
+                    <option name="value" value="10" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="id_carteira_origem" />
+                    <option name="value" value="8" />
+                  </queryParamState>
+                  <queryParamState>
+                    <option name="key" value="saldo" />
+                    <option name="value" value="24" />
+                  </queryParamState>
+                </list>
+              </option>
+              <option name="url" value="http://127.0.0.1:8000/api/criptomoeda/transferir?id_carteira_destino=10&amp;id_carteira_origem=8&amp;saldo=24" />
+            </requestState>
+            <requestState>
+              <option name="id" value="70067a77-4045-443c-a309-9aba2e678ff8" />
+              <option name="method" value="DELETE" />
+              <option name="name" value="deletar_carteira" />
+              <option name="url" value="http://127.0.0.1:8000/api/criptomoeda/deletar_carteira/9" />
+            </requestState>
+            <requestState>
+              <option name="id" value="21e38d2d-29a8-446a-b340-764a93bdd106" />
+              <option name="method" value="POST" />
+              <option name="name" value="teste" />
+              <option name="url" value="http://127.0.0.1:8000/api/criptomoeda/teste" />
+            </requestState>
+            <requestState>
+              <option name="id" value="248717b9-c44f-43dc-9cf0-6ed0136bfff1" />
+              <option name="method" value="GET" />
+              <option name="name" value="blockchain" />
+              <option name="url" value="http://127.0.0.1:8000/api/criptomoeda/blockchain" />
+            </requestState>
+            <requestState>
+              <option name="id" value="8914cb99-44a4-447d-b054-69d3aa7afb54" />
+              <option name="method" value="GET" />
+              <option name="name" value="meu_blockchain" />
+              <option name="url" value="http://127.0.0.1:8000/api/criptomoeda/meu_blockchain" />
+            </requestState>
+          </list>
+        </option>
+      </draftsState>
+    </option>
+    <option name="id" value="1b8c4128-9ad1-4494-8494-cf1aa4d3c53c" />
+  </component>
+</project>

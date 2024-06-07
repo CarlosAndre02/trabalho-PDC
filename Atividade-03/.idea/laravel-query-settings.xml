@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="LaravelQuerySettings">
+    <option name="filterDataSources" value="true" />
+    <option name="filteredDataSources">
+      <set>
+        <option value="7b21edb2-1453-4b75-ac96-782f8770e37c&lt;-/lq/-&gt;ws-horoscopos" />
+      </set>
+    </option>
+  </component>
+</project>
